@@ -11,9 +11,9 @@ Personal Health Tracker
 
 Short Project Description:
 
-The Personal Health Tracker is an interactive Python application that allows users to log their daily health metrics such as mood, sleep hours, water intake, screen time, fatigue, and headaches. The program provides visual trends through bar charts, stores user data in JSON files for persistence, supports multiple users, and offers daily health tips fetched from an API. It is designed for personal monitoring of health habits and encourages self-care through actionable insights.
+The Personal Health Tracker is an interactive Python application that allows users to log their daily health metrics such as mood, sleep hours, water intake, screen time, fatigue, and headaches. The program provides visual trends through bar charts, stores user data in JSON files for persistence, supports multiple users, and offers daily health tips fetched from an API.The primary target users are students and young adults who struggle to maintain healthy daily habits due to academic workload and high screen exposure. It is designed for personal monitoring of health habits and encourages self-care through actionable insights.
 
----
+
 
 Proposed Features:
 
@@ -23,7 +23,8 @@ Proposed Features:
 4. Data Persistence– Logs are stored in JSON files for each user.
 5. Trend Visualization – Bar charts show trends over time for selected metrics.
 6. Health Tips via API – Daily tips fetched from a public API to promote healthy habits.
-7. Interactive Menu – Text-based menu for easy navigation between features.
+7.Goal Progress chart - to visual track progress
+8. Interactive Menu – Text-based menu for easy navigation between features.
 
 
 
@@ -41,6 +42,6 @@ Libraries & Modules – `requests` (API calls), `pandas` (data handling), `matpl
 Data Visualization– Bar charts for tracking trends.
 APIs – Fetching external data from a web service.
 
----
+
 
 
